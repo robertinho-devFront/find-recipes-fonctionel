@@ -39,3 +39,4 @@ const ActiveFilters = () => {
 };
 
 export default ActiveFilters;
+  
